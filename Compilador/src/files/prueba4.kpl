@@ -1,0 +1,14 @@
+% Prueba 4: Atributo de un registro repetido
+
+Ghun prueba2
+
+Segh % Sección de Tipos declarados por el usuario
+Tagh
+
+    Persona pong Ta
+        Mi' edad ^
+        Mu' edad ^
+    Hegh ^
+
+Hegh ^ %cierre del tagh
+^ %cierre del segh

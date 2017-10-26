@@ -1,0 +1,27 @@
+% Prueba 13: Parametros diferentes 2
+
+Ghun prueba13
+
+Ghu % Sección de prototipos
+Tagh
+
+    Qap Potencia ( Mi' Base ^ , Choh Vit Exp,Casa ^ , Mu' X, Y ^) : Mi'  ^
+
+Hegh ^
+^
+
+Qap Ghom % Sección de funciones
+Tagh
+    Qap Potencia ( Mi' Base ^  ) : Mi'
+    	    Tagh
+    	    	Qap Vis (5 < 10)
+    	    	Tagh
+    	    		Hijol (5 + 6)  ^
+    	    	Hegh ^
+    	    	^
+    	    Hegh  ^
+        ^
+Hegh ^
+^
+
+^

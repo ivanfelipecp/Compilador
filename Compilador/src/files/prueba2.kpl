@@ -1,0 +1,22 @@
+% Prueba 2: Bloque de tipos de usuario repetido
+
+Ghun prueba2
+
+Segh % Sección de Tipos declarados por el usuario
+Tagh
+
+    Edad pong Mi' ^
+
+Hegh ^ %cierre del tagh
+^ %cierre del segh
+
+Segh % Sección de Tipos declarados por el usuario
+Tagh
+
+    Edad pong Mi' ^
+
+Hegh ^ %cierre del tagh
+^ %cierre del segh
+
+
+^

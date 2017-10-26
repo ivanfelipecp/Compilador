@@ -1,0 +1,21 @@
+% Prueba 3: Tipos de datos de usuario repetido
+
+Ghun prueba2
+
+Segh % Sección de Tipos declarados por el usuario
+Tagh
+
+    Persona pong Ta
+        Mi' edad ^
+        Mu' nombre ^
+    Hegh ^
+
+    Persona pong Ta
+            Mi' edades ^
+            Mu' nombres ^
+        Hegh ^
+
+
+Hegh ^ %cierre del tagh
+^ %cierre del segh
+

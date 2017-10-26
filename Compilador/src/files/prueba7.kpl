@@ -1,0 +1,21 @@
+% Prueba 7: Bloque de prototipos repetido
+
+Ghun prueba7
+
+Ghu % Sección de prototipos
+Tagh
+
+    Qap Potencia ( Mi' Base ^ , Choh Vit Exp,Casa ^ , Mu' X, Y ^) : Mi'  ^
+    Miw BlaBla (Mu' Nombre,X ^ , Choh Mi' Z,r ^ ) ^
+Hegh ^
+^
+
+Ghu % Sección de prototipos
+Tagh
+
+    Qap Potencia ( Mi' Base ^ , Choh Vit Exp,Casa ^ , Mu' X, Y ^) : Mi'  ^
+    Miw BlaBla (Mu' Nombre,X ^ , Mi' x,r ^ , Choh Mi' x,r ^ ) ^
+Hegh ^
+^
+
+^

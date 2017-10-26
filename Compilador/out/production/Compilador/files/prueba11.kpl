@@ -1,0 +1,27 @@
+% Prueba 11: Funcion sin prototipo
+
+Ghun prueba11
+
+Ghu % Sección de prototipos
+Tagh
+
+    % Qap Potencia ( Mi' Base ^ , Choh Vit Exp,Casa ^ , Mu' X, Y ^) : Mi'  ^ comentada
+
+Hegh ^
+^
+
+Qap Ghom % Sección de funciones
+Tagh
+    Qap Potencia ( Mi' Base ^ , Choh Vit Exp,Casa ^ , Mu' X, Y ^ ) : Mi'
+    	    Tagh
+    	    	Qap Vis (5 < 10)
+    	    	Tagh
+    	    		Hijol (5 + 6)  ^
+    	    	Hegh ^
+    	    	^
+    	    Hegh  ^
+        ^
+Hegh ^
+^
+
+^
